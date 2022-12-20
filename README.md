@@ -51,6 +51,12 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
+## :notes: Listen with me :
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexvk89&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=alexvk89&redirect=true)
+
+---
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -70,6 +76,13 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+## :chart_with_upwards_trend: Weekly Development Breakdown :
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
