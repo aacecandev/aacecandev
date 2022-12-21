@@ -122,6 +122,12 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ## :chart_with_upwards_trend: Weekly Development Breakdown :
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   38 mins         ███████████████████████▓░   94.18 %
+YAML       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
