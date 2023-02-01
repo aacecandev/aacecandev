@@ -124,8 +124,8 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```text
-YAML         8 hrs 33 mins   ██████████▒░░░░░░░░░░░░░░   41.70 %
-Other        3 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+YAML         8 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   39.42 %
+Other        4 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   19.94 %
 ```
 
 <!--END_SECTION:waka-->
