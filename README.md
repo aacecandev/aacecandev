@@ -124,7 +124,8 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```text
-Other       5 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.34 %
+Python      5 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+Other       4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 %
 ```
 
 <!--END_SECTION:waka-->
