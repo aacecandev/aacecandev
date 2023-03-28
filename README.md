@@ -124,9 +124,9 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```text
-Python            9 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.13 %
-Terraform         6 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 %
-Other             2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Python            8 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.80 %
+Terraform         4 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.51 %
+Other             2 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
 ```
 
 <!--END_SECTION:waka-->
