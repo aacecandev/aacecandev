@@ -124,8 +124,8 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```text
-Makefile     3 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   32.80 %
-Other        2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Makefile     3 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.98 %
+Other        2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
 ```
 
 <!--END_SECTION:waka-->
