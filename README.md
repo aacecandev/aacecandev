@@ -124,8 +124,8 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    15 hrs 47 mins  ████████████████░░░░░░░░░   63.54 %
-Other        3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Terraform    14 hrs 13 mins  ███████████░░░░░░░░░░░░░░   43.63 %
+Other        7 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
 ```
 
 <!--END_SECTION:waka-->
