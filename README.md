@@ -124,11 +124,11 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Python      4 hrs 7 mins    █████████████████▒░░░░░░░   69.27 %
-Terraform   1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-GDScript    26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-YAML        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-TOML        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Python      3 hrs 8 mins    █████████████████▒░░░░░░░   68.71 %
+Terraform   33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+GDScript    22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+YAML        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Makefile    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
