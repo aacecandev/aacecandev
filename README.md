@@ -124,9 +124,7 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   20 mins         ██████████████░░░░░░░░░░░   55.44 %
-Bash   13 mins         █████████▒░░░░░░░░░░░░░░░   36.80 %
-YAML   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Rust   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
