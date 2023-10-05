@@ -124,7 +124,11 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Other   38 mins         █████████████████████████   100.00 %
+Other            38 mins         ██████████████▓░░░░░░░░░░   58.87 %
+Terraform        10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+ActionScript 3   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+YAML             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+HCL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
