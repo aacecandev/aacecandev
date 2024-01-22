@@ -125,7 +125,7 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ```txt
 YAML         1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Other        1 hr 47 mins    ████████▒░░░░░░░░░░░░░░░░   32.83 %
+Other        1 hr 47 mins    ████████▒░░░░░░░░░░░░░░░░   32.84 %
 Python       1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
 Terraform    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
