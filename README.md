@@ -124,11 +124,11 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 27 mins    ███████████▓░░░░░░░░░░░░░   46.46 %
-TOML       23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Other      22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Python     20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Bash       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Python     3 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.02 %
+YAML       2 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Makefile   45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Other      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+TOML       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
