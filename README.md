@@ -124,11 +124,10 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 52 mins   ██████████████████░░░░░░░   71.69 %
-Markdown   34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Other      31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-JSON       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Bash       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Other      2 hrs 37 mins   ████████████████░░░░░░░░░   64.06 %
+Python     1 hr 19 mins    ████████░░░░░░░░░░░░░░░░░   32.21 %
+JSON       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
