@@ -124,11 +124,11 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         11 hrs 7 mins   █████████████████░░░░░░░░   67.46 %
-Go           1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-TOML         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Terraform    1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Python       30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+YAML         13 hrs 57 mins  ██████████████████░░░░░░░   71.41 %
+Go           1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+TOML         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Terraform    1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Other        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
