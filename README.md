@@ -124,10 +124,11 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    4 hrs 11 mins   ███████████████████████▒░   93.17 %
-Go      13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+YAML    4 hrs 56 mins   ██████████████████████▒░░   89.86 %
+Other   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Go      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+INI     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
