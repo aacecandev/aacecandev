@@ -124,10 +124,10 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 45 mins    █████████████████▓░░░░░░░   70.68 %
-YAML         33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Cheetah      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Go           3 hrs 20 mins   ████████████████████░░░░░   79.39 %
+YAML         40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Cheetah      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
