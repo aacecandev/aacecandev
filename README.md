@@ -124,8 +124,11 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   10 mins         █████████████▒░░░░░░░░░░░   53.74 %
-Go     8 mins          ███████████▓░░░░░░░░░░░░░   46.26 %
+YAML       2 hrs 41 mins   ███████████████▒░░░░░░░░░   61.28 %
+Cheetah    1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+Makefile   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Go         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+HTML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
