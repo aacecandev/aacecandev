@@ -124,8 +124,10 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 26 mins    █████████████████████▓░░░   86.87 %
-SSH Config   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Other        1 hr 26 mins    █████████████████▓░░░░░░░   70.79 %
+Terraform    16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+SSH Config   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+HCL          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:waka-->
