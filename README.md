@@ -124,7 +124,7 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
