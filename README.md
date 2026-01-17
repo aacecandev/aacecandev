@@ -124,7 +124,10 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   0 secs          █████████████████████████   100.00 %
+Text        1 min           ██████████▒░░░░░░░░░░░░░░   40.93 %
+Bash        1 min           ██████████░░░░░░░░░░░░░░░   40.22 %
+Markdown    0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Terraform   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
 ```
 
 <!--END_SECTION:waka-->
