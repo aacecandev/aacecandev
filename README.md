@@ -124,7 +124,9 @@ I am a DevSecOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash        1 min           ██████████████████▓░░░░░░   74.54 %
+Terraform   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+INI         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
